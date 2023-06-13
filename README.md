@@ -6,11 +6,12 @@
 ## Skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-121011?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-121011?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-121011?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![React JS](https://img.shields.io/badge/latex-121011?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/latex-121011?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-121011?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-121011?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-121011?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
